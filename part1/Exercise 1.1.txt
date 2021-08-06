@@ -1,3 +1,4 @@
 CONTAINER ID   IMAGE     COMMAND                  CREATED          STATUS                      PORTS     NAMES
 c0e86a4650ca   nginx     "/docker-entrypoint.…"   41 seconds ago   Exited (0) 15 seconds ago             admiring_galois
-cbf5c198d82c   nginx     "/docker-entrypoint.…"   47 seconds ago   Exited (0) 8 seconds ago              tender_jones233840be4d8e   nginx     "/docker-entrypoint.…"   4 minutes ago    Up 4 minutes                80/tcp    goofy_bhaskara 
+cbf5c198d82c   nginx     "/docker-entrypoint.…"   47 seconds ago   Exited (0) 8 seconds ago              tender_jones
+233840be4d8e   nginx     "/docker-entrypoint.…"   4 minutes ago    Up 4 minutes                80/tcp    goofy_bhaskara 
