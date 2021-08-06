@@ -1,3 +1,5 @@
+Output for docker ps -a
+
 CONTAINER ID   IMAGE     COMMAND                  CREATED          STATUS                      PORTS     NAMES
 c0e86a4650ca   nginx     "/docker-entrypoint.…"   41 seconds ago   Exited (0) 15 seconds ago             admiring_galois
 cbf5c198d82c   nginx     "/docker-entrypoint.…"   47 seconds ago   Exited (0) 8 seconds ago              tender_jones
